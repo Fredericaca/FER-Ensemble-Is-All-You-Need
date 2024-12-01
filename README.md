@@ -21,11 +21,14 @@ Still working on it
 
 ## Experiment Result:
 Qualitative Result:
+
 ![Qualitative Result](Slides/QualitativeResult.png)
 
 Quantitative Result:
+
 ![Accuracy comparing baselines](Slides/AccuracyCompare.png)
 
+Accuracy on each expression
 ![Accuracy on each expressions](Slides/Accuracy.png)
 
 
