@@ -28,7 +28,8 @@ Quantitative Result:
 
 ![Accuracy comparing baselines](Slides/AccuracyCompare.png)
 
-Accuracy on each expression
+Accuracy on each expression:
+
 ![Accuracy on each expressions](Slides/Accuracy.png)
 
 
