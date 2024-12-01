@@ -1,2 +1,31 @@
 # CSC245-Fall2024-TeamAlchemists-CodeRepository
-Edit final report with [Overleaf](https://www.overleaf.com/9115683215npbpwvgrswkq#97b01b))
+
+Welcome to Team Alchemists code repository!
+
+Edit final report with [Overleaf](https://www.overleaf.com/9115683215npbpwvgrswkq#97b01b)
+
+## Set up
+```
+Still working on it
+```
+
+## Train
+```
+Still working on it
+```
+
+## Evaluate
+```
+Still working on it
+```
+
+## Experiment Result:
+Qualitative Result:
+![Qualitative Result]()
+
+Quantitative Result:
+![Quantitative Result]()
+
+![Accuracy]()
+
+
