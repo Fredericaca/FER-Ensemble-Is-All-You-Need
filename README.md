@@ -1,9 +1,35 @@
-# CSC245-TeamAlchemists-CodeRepository
-This is the official implementation for our final project for CSC245 Fall 2024
+# CSC245-Fall2024-TeamAlchemists-CodeRepository
 
-## Setup
+Welcome to Team Alchemists code repository!
+
+Edit final report with [Overleaf](https://www.overleaf.com/9115683215npbpwvgrswkq#97b01b)
+
+## Set up
+```
+Still working on it
+```
 
 ## Train
+```
+Still working on it
+```
 
-## Evaluation
+## Evaluate
+```
+Still working on it
+```
+
+## Experiment Result:
+Qualitative Result:
+
+![Qualitative Result](Slides/QualitativeResult.png)
+
+Quantitative Result:
+
+![Accuracy comparing baselines](Slides/AccuracyCompare.png)
+
+Accuracy on each expression:
+
+![Accuracy on each expressions](Slides/Accuracy.png)
+
 
