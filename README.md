@@ -30,10 +30,12 @@ Qualitative Result:
 
 Quantitative Result:
 
-![Accuracy comparing baselines](Slides/AccuracyCompare.png)
+Majority Voting(Not promising)
 
-Accuracy on each expression:
+![Accuracy comparing baselines](Slides/cm_majority_voting_ensemble_2possibleExpression_v2.png)
 
-![Accuracy on each expressions](Slides/Accuracy.png)
+Weighted averaging(Impresive)
+
+![Accuracy on each expressions](Slides/cm_weighted_averaging_ensemble_2possibleExpression_v2.png)
 
 
