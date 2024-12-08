@@ -4,19 +4,18 @@ Welcome to Team Alchemists code repository!
 
 Edit final report with [Overleaf](https://www.overleaf.com/9115683215npbpwvgrswkq#97b01b)
 
-## Set up
-```
-Still working on it
-```
 
 ## Train
 ```
-Still working on it
+python train_EmoViT.py
+python main_fer2013.py
 ```
 
 ## Evaluate
 ```
-Still working on it
+# adjust plot output and model you want to use respectively in the file
+python weighted_averaging_ensemble.py
+python majority_voting_ensemble.py
 ```
 
 ## Experiment Result:
