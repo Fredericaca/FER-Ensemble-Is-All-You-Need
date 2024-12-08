@@ -9,7 +9,9 @@ Use conda environment. Download everything that is missing.
 
 ## Train
 ```
-python train_EmoViT.py
+python train_EmoVit.py
+
+# adjust model you want to train with fer2013_config.json
 python main_fer2013.py
 ```
 
@@ -19,7 +21,7 @@ or you can download our checkpoint [here](https://drive.google.com/drive/folders
 ## Evaluate
 ```
 # adjust plot output and model you want to use respectively in the file
-python weighted_averaging_ensemble.py
+python weight_average_ensemble.py
 python majority_voting_ensemble.py
 ```
 
